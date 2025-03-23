@@ -68,6 +68,14 @@ sudo pkill ovs-test
 sudo python3 topo.py
 ```
 
+## What I Learned
+- **Network Topology Simulation**: I gained experience designing and simulating network topologies using Mininet. The lab involved creating a custom router and connecting four hosts to test packet forwarding and network connectivity.
+- **Packet Forwarding**: I learned how packets are transmitted between hosts and how routers forward packets to the appropriate destination. This included understanding network protocols and routing mechanisms.
+- **Wireshark Analysis**: I used Wireshark to capture and analyze network traffic, which provided insights into how data moves across the network and helped identify potential issues with packet transmission.
+- **Network Performance**: The lab helped me understand network performance metrics, such as latency and throughput, and how to monitor these factors in a simulated network environment.
+- **Hands-on Networking Concepts**: I applied theoretical knowledge of networking concepts in a practical setting, improving my understanding of how networks operate and how different devices interact within them.
+
+
 To start the `router`, in the `router` device, simply run `./router`.
 
 ## C++
